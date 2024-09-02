@@ -1,0 +1,5 @@
+Run `sphinx-apidoc -o . ../../github_bot' in this directory.
+
+This will generate `modules.rst' and `github_bot.rst'.
+
+Then include `modules.rst' in your `index.rst' file.

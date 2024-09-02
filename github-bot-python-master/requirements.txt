@@ -1,0 +1,6 @@
+# Python 2.6 compatibility
+# argparse==1.2.1
+python-dotenv==0.8.0
+PyGithub==1.37
+Flask==0.12.2
+six==1.11.0
